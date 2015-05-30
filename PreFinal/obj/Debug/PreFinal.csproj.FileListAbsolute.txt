@@ -1,0 +1,104 @@
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\App.g.i.cs
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\App.g.cs
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\MemoryGame.g.i.cs
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\MemoryGame.g.cs
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\ColorMatching.g.i.cs
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\ColorMatching.g.cs
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\MainPage.g.i.cs
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\MainPage.g.cs
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\XamlTypeInfo.g.cs
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\App.xaml
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\MemoryGame.xaml
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\App.xbf
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\MemoryGame.xbf
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\XamlSaveStateFile.xml
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\bin\Debug\App.xbf
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\bin\Debug\MemoryGame.xbf
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\bin\Debug\ColorMatching.xbf
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\bin\Debug\MainPage.xbf
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\bin\Debug\PreFinal.xr.xml
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\bin\Debug\PreFinal.exe
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\bin\Debug\PreFinal.pdb
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\bin\Debug\resources.pri
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\bin\Debug\AppxManifest.xml
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\bin\Debug\PreFinal.build.appxrecipe
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\ColorMatching.xaml
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\MainPage.xaml
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\ColorMatching.xbf
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\MainPage.xbf
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\PreFinal.exe
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\PreFinal.pdb
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\priconfig.xml
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\priconfig.xml.intermediate
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\layout.resfiles
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\layout.resfiles.intermediate
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\resources.resfiles
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\resources.resfiles.intermediate
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\pri.resfiles
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\pri.resfiles.intermediate
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\qualifiers.txt
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\qualifiers.txt.intermediate
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\alok kumar\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\ProjectArchitectures.txt
+C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\bin\Debug\ColorTiles.xbf
+C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\ColorTiles.g.i.cs
+C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\ColorTiles.g.cs
+C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\ColorTiles.xaml
+C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\ColorTiles.xbf
+C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\bin\Debug\WindowsLogo.xbf
+C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\WindowsLogo.g.i.cs
+C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\WindowsLogo.g.cs
+C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\WindowsLogo.xaml
+C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\Debug\WindowsLogo.xbf
+D:\GAMES\PreFinal\PreFinal\bin\Debug\App.xbf
+D:\GAMES\PreFinal\PreFinal\bin\Debug\WindowsLogo.xbf
+D:\GAMES\PreFinal\PreFinal\bin\Debug\ColorTiles.xbf
+D:\GAMES\PreFinal\PreFinal\bin\Debug\MemoryGame.xbf
+D:\GAMES\PreFinal\PreFinal\bin\Debug\ColorMatching.xbf
+D:\GAMES\PreFinal\PreFinal\bin\Debug\MainPage.xbf
+D:\GAMES\PreFinal\PreFinal\bin\Debug\PreFinal.xr.xml
+D:\GAMES\PreFinal\PreFinal\bin\Debug\PreFinal.exe
+D:\GAMES\PreFinal\PreFinal\bin\Debug\PreFinal.pdb
+D:\GAMES\PreFinal\PreFinal\bin\Debug\resources.pri
+D:\GAMES\PreFinal\PreFinal\bin\Debug\AppxManifest.xml
+D:\GAMES\PreFinal\PreFinal\bin\Debug\PreFinal.build.appxrecipe
+D:\GAMES\PreFinal\PreFinal\obj\Debug\App.g.i.cs
+D:\GAMES\PreFinal\PreFinal\obj\Debug\App.g.cs
+D:\GAMES\PreFinal\PreFinal\obj\Debug\WindowsLogo.g.i.cs
+D:\GAMES\PreFinal\PreFinal\obj\Debug\WindowsLogo.g.cs
+D:\GAMES\PreFinal\PreFinal\obj\Debug\ColorTiles.g.i.cs
+D:\GAMES\PreFinal\PreFinal\obj\Debug\ColorTiles.g.cs
+D:\GAMES\PreFinal\PreFinal\obj\Debug\MemoryGame.g.i.cs
+D:\GAMES\PreFinal\PreFinal\obj\Debug\MemoryGame.g.cs
+D:\GAMES\PreFinal\PreFinal\obj\Debug\ColorMatching.g.i.cs
+D:\GAMES\PreFinal\PreFinal\obj\Debug\ColorMatching.g.cs
+D:\GAMES\PreFinal\PreFinal\obj\Debug\MainPage.g.i.cs
+D:\GAMES\PreFinal\PreFinal\obj\Debug\MainPage.g.cs
+D:\GAMES\PreFinal\PreFinal\obj\Debug\XamlTypeInfo.g.cs
+D:\GAMES\PreFinal\PreFinal\obj\Debug\App.xaml
+D:\GAMES\PreFinal\PreFinal\obj\Debug\WindowsLogo.xaml
+D:\GAMES\PreFinal\PreFinal\obj\Debug\ColorTiles.xaml
+D:\GAMES\PreFinal\PreFinal\obj\Debug\MemoryGame.xaml
+D:\GAMES\PreFinal\PreFinal\obj\Debug\ColorMatching.xaml
+D:\GAMES\PreFinal\PreFinal\obj\Debug\MainPage.xaml
+D:\GAMES\PreFinal\PreFinal\obj\Debug\App.xbf
+D:\GAMES\PreFinal\PreFinal\obj\Debug\WindowsLogo.xbf
+D:\GAMES\PreFinal\PreFinal\obj\Debug\ColorTiles.xbf
+D:\GAMES\PreFinal\PreFinal\obj\Debug\MemoryGame.xbf
+D:\GAMES\PreFinal\PreFinal\obj\Debug\ColorMatching.xbf
+D:\GAMES\PreFinal\PreFinal\obj\Debug\MainPage.xbf
+D:\GAMES\PreFinal\PreFinal\obj\Debug\XamlSaveStateFile.xml
+D:\GAMES\PreFinal\PreFinal\obj\Debug\PreFinal.exe
+D:\GAMES\PreFinal\PreFinal\obj\Debug\PreFinal.pdb
+D:\GAMES\PreFinal\PreFinal\obj\Debug\priconfig.xml
+D:\GAMES\PreFinal\PreFinal\obj\Debug\priconfig.xml.intermediate
+D:\GAMES\PreFinal\PreFinal\obj\Debug\layout.resfiles
+D:\GAMES\PreFinal\PreFinal\obj\Debug\layout.resfiles.intermediate
+D:\GAMES\PreFinal\PreFinal\obj\Debug\resources.resfiles
+D:\GAMES\PreFinal\PreFinal\obj\Debug\resources.resfiles.intermediate
+D:\GAMES\PreFinal\PreFinal\obj\Debug\pri.resfiles
+D:\GAMES\PreFinal\PreFinal\obj\Debug\pri.resfiles.intermediate
+D:\GAMES\PreFinal\PreFinal\obj\Debug\qualifiers.txt
+D:\GAMES\PreFinal\PreFinal\obj\Debug\qualifiers.txt.intermediate
+D:\GAMES\PreFinal\PreFinal\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\GAMES\PreFinal\PreFinal\obj\Debug\ProjectArchitectures.txt

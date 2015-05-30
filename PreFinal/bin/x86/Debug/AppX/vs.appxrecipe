@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RZ</Machine>
+    <WindowsUser>ALOK KUMAR</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>9dd2d5fb-6da8-4b14-a6b1-6059f8a77c34</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>75B5BC764F2DAC369E45165EB6D5FEC2864E573F2B0F977EF2AC3274CAF78CAC</RegisteredManifestChecksum>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-05T09:05:29.816</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\bin\x86\Debug\PreFinal.exe">
+      <PackagePath>PreFinal.exe</PackagePath>
+      <Modified>2014-11-05T09:05:29.613</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\Assets\backIconBlack.png">
+      <PackagePath>Assets\backIconBlack.png</PackagePath>
+      <Modified>2014-11-02T05:10:43.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\Assets\ColorMatching.png">
+      <PackagePath>Assets\ColorMatching.png</PackagePath>
+      <Modified>2014-11-02T06:38:40.817</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\Assets\Memory.png">
+      <PackagePath>Assets\Memory.png</PackagePath>
+      <Modified>2014-11-02T06:38:56.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\Assets\Mindboozled.png">
+      <PackagePath>Assets\Mindboozled.png</PackagePath>
+      <Modified>2014-11-02T02:33:05.467</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-02T07:17:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-02T07:18:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-02T07:19:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\Assets\Tiles.png">
+      <PackagePath>Assets\Tiles.png</PackagePath>
+      <Modified>2014-11-02T06:39:06.493</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\Assets\WinLogo.png">
+      <PackagePath>Assets\WinLogo.png</PackagePath>
+      <Modified>2014-11-02T06:39:14.493</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-05T09:05:29.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\bin\x86\Debug\WindowsLogo.xbf">
+      <PackagePath>WindowsLogo.xbf</PackagePath>
+      <Modified>2014-11-05T09:05:29.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\bin\x86\Debug\ColorTiles.xbf">
+      <PackagePath>ColorTiles.xbf</PackagePath>
+      <Modified>2014-11-05T09:05:29.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\bin\x86\Debug\MemoryGame.xbf">
+      <PackagePath>MemoryGame.xbf</PackagePath>
+      <Modified>2014-11-05T09:05:29.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\bin\x86\Debug\ColorMatching.xbf">
+      <PackagePath>ColorMatching.xbf</PackagePath>
+      <Modified>2014-11-05T09:05:29.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-11-05T09:05:29.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\bin\x86\Debug\PreFinal.xr.xml">
+      <PackagePath>PreFinal.xr.xml</PackagePath>
+      <Modified>2014-11-05T09:05:28.972</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALOK KUMAR\documents\visual studio 2013\Projects\PreFinal\PreFinal\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-05T09:05:29.722</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,77 @@
+﻿<Page
+    x:Class="PreFinal.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PreFinal"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+
+    <Grid Background="Beige">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition
+                    FromHorizontalOffset="600" />
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+        <Grid.RowDefinitions>
+            <RowDefinition 
+                Height="2*" />
+            <RowDefinition 
+                Height="7*" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition
+                Width="*" />
+            <ColumnDefinition
+                Width="*" />
+            <ColumnDefinition
+                Width="*" />
+            <ColumnDefinition
+                Width="*" />
+        </Grid.ColumnDefinitions>
+        <Image Grid.RowSpan="2" Grid.ColumnSpan="2" Stretch="Fill" Source="Assets/background_slide1.png" />
+
+        <Rectangle Fill="BurlyWood" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Height="400" Width="280" />
+
+        <TextBlock Margin="0,200,0,0" FontSize="30" TextWrapping="WrapWholeWords" TextAlignment="Center" VerticalAlignment="Center"  Grid.Row="1" Grid.Column="0" Foreground="Black" Width="280" Height="400">
+            <Bold>Color Matching:</Bold> 
+            <LineBreak/>
+            Let's put your reflexes to test!!
+        </TextBlock>
+        <Button x:Name="btn1" Foreground="Black" Background="Transparent" BorderBrush="Black" FontSize="30" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Height="400" Width="280" Click="onClick"></Button>
+
+        <Rectangle Fill="BurlyWood" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Height="400" Width="280" />
+
+        <TextBlock Margin="0,200,0,0" FontSize="30" TextWrapping="WrapWholeWords" TextAlignment="Center" VerticalAlignment="Center"  Grid.Row="1" Grid.Column="1" Foreground="Black" Width="280" Height="400">
+            <Bold>Memory Game:</Bold> 
+            <LineBreak/>
+            Can you remember the color name written on the tiles?!
+        </TextBlock>
+        <Button x:Name="btn2" Foreground="Black" Background="Transparent" BorderBrush="Black" FontSize="30" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center"  VerticalAlignment="Center" Height="400" Width="280" Click="onClick"></Button>
+
+        <Rectangle Fill="BurlyWood" Grid.Row="1" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Height="400" Width="280" />
+
+        <TextBlock Margin="0,200,0,0" FontSize="30" TextWrapping="WrapWholeWords" TextAlignment="Center" VerticalAlignment="Center"  Grid.Row="1" Grid.Column="2" Foreground="Black" Width="280" Height="400">
+            <Bold>Color Tiles:</Bold> 
+            <LineBreak/>
+            Click the tile in the lowermost row if the shown color matches the color name!
+        </TextBlock>
+        <Button x:Name="btn3" Foreground="Black" Background="Transparent" BorderBrush="Black" FontSize="30" Grid.Row="1" Grid.Column="2" HorizontalAlignment="Center"  VerticalAlignment="Center" Height="400" Width="280"  Click="onClick"></Button>
+
+        <Rectangle Fill="BurlyWood" Grid.Row="1" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" Height="400" Width="280" />
+
+        <TextBlock Margin="0,200,0,0" FontSize="30" TextWrapping="WrapWholeWords" TextAlignment="Center" VerticalAlignment="Center"  Grid.Row="1" Grid.Column="3" Foreground="Black" Width="280" Height="400">
+            <Bold>Special: Logo</Bold> 
+            <LineBreak/>
+            Let's see how well you know the Microsoft logo.
+        </TextBlock>
+        <Button x:Name="btn4" Foreground="Black" Background="Transparent"  BorderBrush="Black" FontSize="30" Grid.Row="1" Grid.Column="3" HorizontalAlignment="Center"  VerticalAlignment="Center" Height="400" Width="280" Click="onClick"></Button>
+
+        <Image Source="assets/mindboozled.png" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="4" Margin="0,10,0,522" Grid.RowSpan="2" />
+
+    </Grid>
+</Page>
